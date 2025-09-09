@@ -1,0 +1,33 @@
+2025-09-08T02:23:48.630Z Creating-- Folder Name:  /Users/user/Downloads/JPG
+2025-09-08T02:23:48.632Z Creating-- Folder Name:  /Users/user/Downloads/md
+2025-09-08T02:23:48.633Z Creating-- Folder Name:  /Users/user/Downloads/js
+2025-09-08T02:23:48.633Z Creating-- Folder Name:  /Users/user/Downloads/txt
+2025-09-08T02:23:48.633Z Creating-- Folder Name:  /Users/user/Downloads/dmg
+2025-09-08T02:23:48.630Z Current Moving--- File is 301c398d-dc58-46f4-b141-e483587f6ca8.JPG
+2025-09-08T02:23:48.630Z Moved--- 301c398d-dc58-46f4-b141-e483587f6ca8.JPG -> JPG
+2025-09-08T02:23:48.632Z Current Moving--- File is 4660c3a9-cc01-4057-91a1-24c649a780db.JPG
+2025-09-08T02:23:48.632Z Moved--- 4660c3a9-cc01-4057-91a1-24c649a780db.JPG -> JPG
+2025-09-08T02:23:48.632Z Current Moving--- File is README.md
+2025-09-08T02:23:48.632Z Moved--- README.md -> md
+2025-09-08T02:23:48.633Z Current Moving--- File is app.js
+2025-09-08T02:23:48.633Z Moved--- app.js -> js
+2025-09-08T02:23:48.633Z Current Moving--- File is fbaa9f75-2a79-4497-8d87-a0c048b2bfa2.JPG
+2025-09-08T02:23:48.633Z Moved--- fbaa9f75-2a79-4497-8d87-a0c048b2bfa2.JPG -> JPG
+2025-09-08T02:23:48.633Z Current Moving--- File is command.txt
+2025-09-08T02:23:48.633Z Moved--- command.txt -> txt
+2025-09-08T02:23:48.633Z Current Moving--- File is ideaIU-2025.2-aarch64.dmg
+2025-09-08T02:23:48.633Z Moved--- ideaIU-2025.2-aarch64.dmg -> dmg
+2025-09-08T02:59:30.683Z Folder ensured: /Users/user/Downloads/JPG
+2025-09-08T02:59:30.685Z Moved: 301c398d-dc58-46f4-b141-e483587f6ca8.JPG -> JPG
+2025-09-08T02:59:30.686Z Folder ensured: /Users/user/Downloads/JPG
+2025-09-08T02:59:30.686Z Moved: 4660c3a9-cc01-4057-91a1-24c649a780db.JPG -> JPG
+2025-09-08T02:59:30.686Z Folder ensured: /Users/user/Downloads/md
+2025-09-08T02:59:30.687Z Moved: README.md -> md
+2025-09-08T02:59:30.687Z Folder ensured: /Users/user/Downloads/js
+2025-09-08T02:59:30.688Z Moved: app.js -> js
+2025-09-08T02:59:30.688Z Folder ensured: /Users/user/Downloads/txt
+2025-09-08T02:59:30.689Z Moved: command.txt -> txt
+2025-09-08T02:59:30.689Z Folder ensured: /Users/user/Downloads/JPG
+2025-09-08T02:59:30.690Z Moved: fbaa9f75-2a79-4497-8d87-a0c048b2bfa2.JPG -> JPG
+2025-09-08T02:59:30.691Z Folder ensured: /Users/user/Downloads/dmg
+2025-09-08T02:59:30.691Z Moved: ideaIU-2025.2-aarch64.dmg -> dmg
