@@ -9,10 +9,10 @@ async function logMessage(message) {
   const timestamp = new Date().toISOString();
   await fs.appendFile(logFile, `${timestamp} ${message}\n`);
 }
-
 async function organizeDownloadFolder(folderName) {
   try {
     const files = await fs.readdir(folderName);
+    console.log(files)
 
     for (const file of files) {
       const ext = path.extname(file).slice(1);
